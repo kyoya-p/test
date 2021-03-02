@@ -6,16 +6,16 @@ const RESOURCES = {
   "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "149b17069935d72eda14118a16a8a106",
+"assets/NOTICES": "54ebedbb56c0a934b1e118621f846e3a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"firebasejs/7.15.5/firebase-app.js": "a58de82d2014e98d712511f2cf0cbb49",
-"firebasejs/7.15.5/firebase-auth.js": "1e2cfe18ab404791980e7dc5e52acc30",
-"firebasejs/7.15.5/firebase-firestore.js": "73ca3e85fdfc169baa50e5daa068839d",
+"firebasejs/7.15.5/firebase-app.js": "51519caa8b5b0ba9278b3cab825cd7f8",
+"firebasejs/7.15.5/firebase-auth.js": "f04a93352d557d36d00e3291de8d4b51",
+"firebasejs/7.15.5/firebase-firestore.js": "657660e0ef65df77e778e22aa18211a8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "637e44ccd5281d54627de6688f3ece6d",
-"/": "637e44ccd5281d54627de6688f3ece6d",
-"main.dart.js": "5f064c9d631b69eda2b7aa78b00278c1",
+"index.html": "cb02f9ca6f8ebaa02de5e21a32c5a7ed",
+"/": "cb02f9ca6f8ebaa02de5e21a32c5a7ed",
+"main.dart.js": "efa72ca673f84c718213f588413066c1",
 "manifest.json": "64ed53d72c5e24f0f074f6b4574176ee",
 "version.json": "7e090dfb60b06ef300e1171a6eb3e72b"
 };
@@ -161,7 +161,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
