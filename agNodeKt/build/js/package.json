@@ -1,0 +1,14 @@
+{
+  "name": "AgNodeKt",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages\\AgNodeKt"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "firebase-kotlin-sdk-firebase-auth",
+  "version": "1.2.0",
+  "customFields": {},
+  "main": "firebase-kotlin-sdk-firebase-auth.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

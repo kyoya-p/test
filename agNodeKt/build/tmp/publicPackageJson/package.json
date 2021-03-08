@@ -1,0 +1,16 @@
+{
+  "name": "AgNodeKt",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "AgNodeKt.js",
+  "devDependencies": {
+    "dukat": "0.5.8-rc.3"
+  },
+  "dependencies": {
+    "firebase": "8.2.6",
+    "net-snmp": "2.10.1",
+    "global-agent": "2.1.12"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "firebase-kotlin-sdk-firebase-common",
+  "version": "1.2.0",
+  "main": "firebase-kotlin-sdk-firebase-common.js",
+  "devDependencies": {
+    "dukat": "0.5.8-rc.3"
+  },
+  "dependencies": {
+    "firebase": "8.2.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

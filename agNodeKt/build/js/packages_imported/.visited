@@ -1,0 +1,78 @@
+{
+  "version": "9",
+  "items": {
+    "2e54e20ac9ae907e45b856403e5ef493": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\1.4.31\\22683e8f2e4b747aca65f169c4d5acb09f627e5c\\kotlin-stdlib-js-1.4.31.jar",
+      "target": "kotlin\\1.4.31"
+    },
+    "648cebbfc371070dd08be09c74b21a75": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.4.31\\6dd50665802f54ba9bc3f70ecb20227d1bc81323\\kotlin-stdlib-common-1.4.31.jar"
+    },
+    "b134a9af50f1695dbbf3321bde794da6": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\io.ktor\\ktor-client-core-js\\1.5.2\\e41980fae89534e662cb6dfdcbb24bb3ab0f5a2f\\ktor-client-core-jslegacy-1.5.2.jar",
+      "target": "ktor-ktor-client-core-jsLegacy\\1.5.2"
+    },
+    "dd1b1edfc09120e1d37dd55e5ad10371": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\io.ktor\\ktor-http-cio-js\\1.5.2\\c33525f34512e7edf2c06869bdad2593dfa4d610\\ktor-http-cio-jslegacy-1.5.2.jar",
+      "target": "ktor-ktor-http-cio-jsLegacy\\1.5.2"
+    },
+    "edf2a4b5287f6e1e4106f096f4f474a2": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\io.ktor\\ktor-http-js\\1.5.2\\45c302f55be3315ba79dc30635f0caf10c80cdce\\ktor-http-jslegacy-1.5.2.jar",
+      "target": "ktor-ktor-http-jsLegacy\\1.5.2"
+    },
+    "9f8215c89941cd60bde89e6dccafbd8e": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\io.ktor\\ktor-utils-js\\1.5.2\\7a520822b01b3e0f21e7007bd021894606bcea3f\\ktor-utils-jslegacy-1.5.2.jar",
+      "target": "ktor-ktor-utils-jsLegacy\\1.5.2"
+    },
+    "869eebca1f61ff45e8a6e85b74b238d6": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\io.ktor\\ktor-io-js\\1.5.2\\9ec1fd2d6e97d3c43c3692269218099885a20da5\\ktor-io-jslegacy-1.5.2.jar",
+      "target": "ktor-ktor-io-jsLegacy\\1.5.2"
+    },
+    "0f258c8d455739c4f911a5bf9b259537": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.4.3\\20a376f56fb1872497eb5e854c138ceec4c09a0c\\kotlinx-coroutines-core-jslegacy-1.4.3.jar",
+      "target": "kotlinx-coroutines-core\\1.4.3"
+    },
+    "dd8674d34455b443a6f2d6dc3ea68648": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.15.1\\5099f5bb286ba06e476a6048eba0e462ec00b9b2\\atomicfu-jslegacy-0.15.1.jar",
+      "target": "kotlinx-atomicfu\\0.15.1"
+    },
+    "9699a6a62c0236eb655904785c8c1575": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-nodejs\\0.0.7\\1fa56e94ef6a536d1c5bc44634549357ed6385cf\\kotlinx-nodejs-0.0.7.jar",
+      "target": "17def1782b5ee417-kotlinx-nodejs-jsLegacy\\0.0.7"
+    },
+    "f7a579c8fe2ac48d7e6af37be8fe0d42": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\dev.gitlive\\firebase-auth-js\\1.2.0\\265e8addb4b080b753998820750fa23b4b1b4d46\\firebase-auth-js-1.2.0.jar",
+      "target": "firebase-kotlin-sdk-firebase-auth\\1.2.0"
+    },
+    "2f71abe309bec1cecc8f012a6d1fd739": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\dev.gitlive\\firebase-app-js\\1.2.0\\f30a0473d80f1e61ceaad7a884340c36d7a6cde8\\firebase-app-js-1.2.0.jar",
+      "target": "firebase-kotlin-sdk-firebase-app\\1.2.0"
+    },
+    "9d04c46b7ddf3fe8ab3b8de8c45e89d2": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\dev.gitlive\\firebase-common-js\\1.2.0\\c95b63bb91882f2b4db8ffb1badb83f3931b4832\\firebase-common-js-1.2.0.jar",
+      "target": "firebase-kotlin-sdk-firebase-common\\1.2.0"
+    },
+    "334d2a6bfff57fb9c2177604645fd56e": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-serialization-core-js\\1.0.1\\53a3e50815e2cd871e9521967f7b094d61680181\\kotlinx-serialization-core-jslegacy-1.0.1.jar",
+      "target": "kotlinx-serialization-kotlinx-serialization-core-jsLegacy\\1.0.1"
+    },
+    "286552a770da20b8de942b6d7572be2a": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\dev.gitlive\\firebase-firestore-js\\1.2.0\\2ea957680ce3f66381c1f0c0464cbaf100e6e9ec\\firebase-firestore-js-1.2.0.jar",
+      "target": "firebase-kotlin-sdk-firebase-firestore\\1.2.0"
+    },
+    "18edfd9f7cfc66525c52228f0e4c7229": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\1.4.31\\2ddaf48b33431d5acd8849a6d810681331779e7a\\kotlin-test-js-runner-1.4.31.jar",
+      "target": "kotlin-test-js-runner\\1.4.31"
+    },
+    "a6a271917a5ac2b3691543f17f0a79ce": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\1.4.31\\46e01667bea6a215c51599e172d645683dcafc09\\kotlin-test-js-1.4.31.jar",
+      "target": "kotlin-test\\1.4.31"
+    },
+    "6d88fe405eb85f8a697a75bf25b645b3": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-common\\1.4.31\\4230331b5109debc141a9a81e4cadb357692e7ab\\kotlin-test-common-1.4.31.jar"
+    },
+    "60ba5d2995893d0280e7623f7ad079c3": {
+      "src": "C:\\Users\\sharp\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-annotations-common\\1.4.31\\3afa7909df3e9a2bcec3c2c133eba9d25b02ee70\\kotlin-test-annotations-common-1.4.31.jar"
+    }
+  }
+}
