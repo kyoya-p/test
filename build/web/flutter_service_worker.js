@@ -6,16 +6,16 @@ const RESOURCES = {
   "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "0a9ae4d58925ba3fbeacdb6009fe96cc",
+"assets/NOTICES": "274ed4ed04fdfa598191ff6c83a98a50",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "firebasejs/7.15.5/firebase-app.js": "a58de82d2014e98d712511f2cf0cbb49",
 "firebasejs/7.15.5/firebase-auth.js": "1e2cfe18ab404791980e7dc5e52acc30",
 "firebasejs/7.15.5/firebase-firestore.js": "73ca3e85fdfc169baa50e5daa068839d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d2ca73bddd8a20071a39911b7432b2c5",
-"/": "d2ca73bddd8a20071a39911b7432b2c5",
-"main.dart.js": "68f099420e5c0ed5a91559f12426ce0e",
+"index.html": "108476cc415854db594030720f6c4717",
+"/": "108476cc415854db594030720f6c4717",
+"main.dart.js": "1b57549784665867db886ba26d8e7d7b",
 "manifest.json": "64ed53d72c5e24f0f074f6b4574176ee",
 "version.json": "7e090dfb60b06ef300e1171a6eb3e72b"
 };
@@ -35,7 +35,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
